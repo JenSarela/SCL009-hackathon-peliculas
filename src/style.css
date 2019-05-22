@@ -13,14 +13,14 @@ body {
 }
 
 .cards {
-  border-radius: 0.5rem;
-  background-color: #ffffffda;
-  color: rgb(0, 0, 0);
-  flex-direction: column;
-  border: 0;
-  margin-bottom: 1rem;
-  font-size: 95%;
-align-items: center;
+    border-radius: 0.25rem;
+    background-color: #ffffff00;
+    color: rgb(0, 0, 0);
+    flex-direction: column;
+    border: 0;
+    margin-bottom: 1rem;
+    font-size: 95%;
+    align-items: center;
 }
 
 .movie-container {
@@ -42,6 +42,10 @@ align-items: center;
   position: relative;
   width: 150px;
   height: 80px;
+}
+
+navbar-expand-lg {
+    margin: auto;
 }
 
 navbar-expand {
