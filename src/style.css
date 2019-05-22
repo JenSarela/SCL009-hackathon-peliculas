@@ -34,6 +34,7 @@ align-items: center;
 .card-body {
   padding: 0.1rem;
   min-height: 5rem;
+  image-resolution: 100px;
 }
 
 
