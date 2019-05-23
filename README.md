@@ -1,5 +1,5 @@
 # BienVenidos a PopCorn Family!
-<img src="..src/img/screen1.png">
+![](https://i.imgur.com/znFSyJT.png)
 
 ## *¿Qué es PopCorn Family?*
 
