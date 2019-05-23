@@ -1,7 +1,7 @@
 body {
   background-image: url(img/p.jpg);
 }
-
+/* div que contiene las películas */
 #movies {
   display: flex;
   justify-content: center;
@@ -11,16 +11,16 @@ body {
   display: flex;
   align-items: center;
 }
-
+/* Cards Style */
 .cards {
-  border-radius: 0.25rem;
-  background-color: #ffffff00;
-  color: rgb(0, 0, 0);
-  flex-direction: column;
-  border: 0;
-  margin-bottom: 1rem;
-  font-size: 95%;
-  align-items: center;
+    border-radius: 0.25rem;
+    background-color: #ffffff00;
+    color: rgb(0, 0, 0);
+    flex-direction: column;
+    border: 0;
+    margin-bottom: 1rem;
+    font-size: 95%;
+    align-items: center;
 }
 
 .movie-container {
@@ -34,7 +34,6 @@ body {
 .card-body {
   padding: 0.1rem;
   min-height: 5rem;
-  image-resolution: 100px;
 }
 
 
@@ -44,14 +43,15 @@ body {
   height: 5rem;
 }
 
+/* Navbar style */
 navbar-expand-lg {
-  margin: auto;
+    margin: auto;
 }
 
 navbar-expand {
     margin: auto;
 }
-
+/* Misceláneos */
 .btns {
     border:0rem;
     width: 9.81rem;
@@ -64,7 +64,7 @@ navbar-expand {
     width: 9.81rem;
     height: 14.75rem;
 }
-
+/* Modals Style */
 .img-modal{
     width: 10rem;
     height: 15rem;
