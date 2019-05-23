@@ -1,6 +1,6 @@
 # BienVenidos a PopCorn Family!
-
-<img src="img/screen1.png" alt="screen1" border="0">
+(src/img/screen1.png)
+<!-- <img src="..src/img/screen1.png"> -->
 
 ## *¿Qué es PopCorn Family?*
 
@@ -98,7 +98,7 @@ Desarrollado en Figma, y exportado a Zeplin [aquí puedes visualizar]()
 *Hackaton:* trabajo colaborativo, utilizando Git y GitHub
 
 Implementación de la aplicación 
-[Aquí]() puedes acceder al deploy en gh-pages.
+[Aquí](https://efyguevara.github.io/SCL009-hackathon-peliculas/src/index.html) puedes acceder al deploy en gh-pages.
 
 **Distribución de tareas**
 como Squad: trabajamos juntas en el testeo.
