@@ -1,5 +1,6 @@
 # BienVenidos a PopCorn Family!
-![](https://i.imgur.com/znFSyJT.png)
+
+![](https://i.imgur.com/gGVldfq.png)
 
 ## *¿Qué es PopCorn Family?*
 
@@ -20,15 +21,14 @@ Para poder optimizar de mejor manera el proyecto distribuimos las tareas y organ
 Para poder conocer y llegar a nuestro usuario realizamos una encuesta online para poder delimitar cuál es el tipo de información que requiere nuestro usuario o espera poder obtener de la interfaz que diseñamos, y poder también dirigirnos a un grupo etario promedio; en un principio optamos por dirigirnos aun grupo familiar, es decir a encuestas para padres, pero en el camino la encuesta y los feedbacks recibidos nos derivamos a usuarios que quisieran compartir más.
 
 El rango etario en su mayoría predominante resulto entre 20- 38 años, de esta forma nos permitió enfocarnos mejor.
-<img src="img/1.png" alt="Captura-de-pantalla-2" border="0">
+![](https://i.imgur.com/g2ArwLo.png)
 
 En esta pregunta queriamos buscar el enfoque, acerca de cual es la plataforma más utilizada, las alternativas mas predoninantes fueron: Netflix, Internet y televisión por cable.
 
-<img src="img/2.png" alt="Captura-de-pantalla-3" border="0">
+![](https://i.imgur.com/xBrZxid.png)
 
 En esta pregunta buscabamos obtener tres parámetros para enfocarnos, las alternativas eran: título, año, género e idioma; y en base a los resultados obtnenidos decidímos hacerlo por género y año.
-
-<img src="img/5.png" alt="Captura-de-pantalla-4" border="0">
+![](https://i.imgur.com/5SRotWf.png)
 
 Por último, esta pregunta nos permitió obtener el último parámetro que es el de prioms o las películas más votadas y estableciendo un ranking.
 
@@ -38,7 +38,7 @@ Iniciamos la fase de prototipado después de reconocer al usuario; avanzamos con
 
 *Diagrama de flujo*: es un bosquejo que permite visualizar los elementos que tendrá la interfaz, teniendo en cuenta los posibles cambios en la filtración.
 
-<img src="img/flujo.png" alt="Diagrama-de-flujo" border="1">
+![](https://i.imgur.com/WCQ0f67.png)
 
 
 ## Historias de usuario
@@ -68,24 +68,25 @@ Durante el proceso de PopCorn Family, nacieron nuevas historias de usuario que n
 
 Usando el diagrama de flujo como guia, y las encuestas, a través de papel, creamos un boceto con los diferentes usos, e interfaces que se veran en la aplicación.
 
-<img src="img/prot1.png" alt="pantalla-inicial">
-<img src="img/prot2.png" alt="pantalla-despliegue">
-<img src="img/prot3.png" alt="pantalla-seleccion">
-<img src="img/prot4.png" alt="pantalla-modal">
+![](https://i.imgur.com/ScjXLVc.jpg)
+
+![](https://i.imgur.com/gQqNjKi.jpg)
+
+![](https://i.imgur.com/FGmzVqW.jpg)
+
+![](https://i.imgur.com/xrmqwpq.jpg)
 
 - Prototipo de Alta Fidelidad
 
 Después que se reconoce al usuario se crea en Figma el prototipo de Alta Fidelidad, donde se definieron los colores, el tipo de información a entregar y como lograr entregarla de forma ordenada y apropiada al usuario. 
 En base al fedback entregado por las entrevistas con el prototipo de baja fidelidad, se hicieron algunos cambios.
 
-<img src="img/flujo.png" alt="Diagrama-de-flujo">
+![](https://i.imgur.com/FULoxOj.png)
+![](https://i.imgur.com/qDwTOsp.png)
+![](https://i.imgur.com/znFSyJT.png)
+![](https://i.imgur.com/z5nERv1.png)
 
-<img src="img/inicio.png" alt="pantalla-inicio">
-<img src="img/modalpopcorn.png" alt="modal-popcorn">
-<img src="img/ultima.png" alt="pantallazo-figma">
-<img src="img/pantallamodal.png" alt="modal">
-
-Desarrollado en Figma, y exportado a Zeplin [aquí puedes visualizar]()
+Desarrollado en Figma, y exportado a Zeplin [aquí puedes visualizar](zpl.io/V4eOQBM)
 
 
 *Utilización de la Interfaz : HTML, JS, CSS.*
